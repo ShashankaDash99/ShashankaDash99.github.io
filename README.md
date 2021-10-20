@@ -1,3 +1,3 @@
 # test
 learn git
-Hi, Chnage 1
+Hi, Change 1

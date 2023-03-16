@@ -1,7 +1,7 @@
 asyncapi: '2.0.0'
 id: 'urn:com:kafka:server'
 info:
-  title: Kafka Application
+  title: Hydra BY Adoptor Service
   version: '1.0.0'
   description: Kafka Application
   license:
